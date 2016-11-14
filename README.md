@@ -1,2 +1,1 @@
-# DUCKA
-This is our game for Intro to Computer Science
+Hello! Is it me you're looking for?
